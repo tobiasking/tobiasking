@@ -11,7 +11,7 @@ i'm tobias (toby) king and i am an aspiring software developer based just out of
 
 👯 I’m looking to collaborate on small scale projects and large scale employment opportunities!
 
-💬 Ask me about Web Development, SQL, Music Production, and ✨ My Family ✨
+💬 Ask me about Java, JavaScript, Thymeleaf, Angular, SQL, Music Production, and ✨ My Family ✨
 
 📫 How to reach me: tobyjacquesking@gmail.com
 
