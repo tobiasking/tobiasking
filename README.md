@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-i'm tobias (toby) king and i am an aspiring software developer based just out of philadelphia - currently working as an application support engineer for applied software, inc.!
+i'm tobias (toby) king and i am an aspiring software developer based just out of philadelphia - currently working as a tier II application support engineer for applied software, inc.!
 
 🔭 I’m currently working on some SQL and VFP projects for my job at Applied Software!
 
