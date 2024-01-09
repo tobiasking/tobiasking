@@ -12,7 +12,7 @@ i'm tobias (toby) king and i am an aspiring software developer based just out of
 
 💬 Ask me about Java, JavaScript, Thymeleaf, Angular, Spring, SQL, Music Production, and ✨ My Family ✨
 
-📫 How to reach me: tobyjacquesking@gmail.com
+📫 How to reach me: tobyjacquesking@gmail.com/linkedin.com/in/tobiasking!
 
 
 <!--
